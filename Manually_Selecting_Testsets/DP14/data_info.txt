@@ -1,0 +1,5 @@
+PD patient Frontal - 
+16 bit +/- 10mV range 328nV Lsb 
+250Hz sampling rate, 1 second records. 
+Chopped and high cutoff at ~70Hz. low cutoff at 0.5Hz single order? 
+Noise floor below -125dB and rolling off at about 10dB/decade
